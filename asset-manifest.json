@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolioadesh/static/css/main.e6c13ad2.css",
+    "main.js": "/portfolioadesh/static/js/main.f893f894.js",
+    "static/js/787.ff269944.chunk.js": "/portfolioadesh/static/js/787.ff269944.chunk.js",
+    "index.html": "/portfolioadesh/index.html",
+    "main.e6c13ad2.css.map": "/portfolioadesh/static/css/main.e6c13ad2.css.map",
+    "main.f893f894.js.map": "/portfolioadesh/static/js/main.f893f894.js.map",
+    "787.ff269944.chunk.js.map": "/portfolioadesh/static/js/787.ff269944.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f893f894.js"
+  ]
+}
